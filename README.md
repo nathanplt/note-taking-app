@@ -1,1 +1,1 @@
-Simple MERN note-taking web app
+# Simple MERN note-taking web app
